@@ -1,4 +1,4 @@
-## Your Name
+## Ali Cocelli
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -62,15 +62,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Kent Septermber 2012 - June 2016
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bsc in Mathetmatics
+- Project on public-key cryptography
 
-#### Any other qualifications
+#### Haringey Sixth Form College
 
-That in some arguable way make you a better software developer or well-rounded person
+A levels: Mathematics(A), Accounting(B), Business (C)
+AS levels: Further Mathematics(B)
 
 ## Hobbies
 
