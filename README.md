@@ -1,12 +1,14 @@
 ## Ali Cocelli
 
+I am a junior full stack developer and a recent graduate from Makers Academy. Since undertaking the X module during my mathemetics degree at university, I have developed a keen interest in X. +how you developed this interest and built on it. 
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **[Get Me Out of Here!](https://https://github.com/AliCo-Hash/escape-room)**      | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
