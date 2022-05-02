@@ -9,8 +9,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Get Me Out of Here!](https://github.com/AliCo-Hash/escape-room)**      | We designed a react based website which involved a lot of interactive components to make a escape room game. | JavaScript, NodeJS, ReactJS, HTML, CSS, Heroku |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-|       |     |       |
+| **[Maker-Mate](https://github.com/AliCo-Hash/maker-mate)** | Building a clone of facebook. | Node.js, MongoDB, Express, Handlebars, Jest, Cypress             |
+|  **[MakersBnB](https://github.com/AliCo-Hash/makersbnb)**     | First group project where the focus was building a MVP of AirBnB using the MVC framework | Ruby, Sinatra, PostgreSQL, Bulma, RSpec, Capybara      |
 
 ## Work Experience
 
