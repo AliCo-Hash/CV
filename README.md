@@ -40,19 +40,17 @@ The escape room project required creative solutions to implement the different e
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (December 2021 to April 2022)
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, JavaScript
-- RSpec, Jest, MERN
+- 16 week highly intensive development bootcamp
+- Test Driven and Object Orientated Development
+- Agile methodologies combined with daily pair-programming
+- Multiple technologies learn including Rspec, Jest, and MERN stack
+- Independent study and research skills
 
 #### University of Kent September 2012 - June 2016
 
-- Bsc in Mathetmatics
+- Bsc in Mathematics
 - Project on public-key cryptography
 
 #### Haringey Sixth Form College
