@@ -30,32 +30,9 @@ _Your job title_
 
 In the course of the Maker-Mate project, I was able to wrap my head around MongoDB and Express within the first week without it being taught during the course. This meant that I was able to make good headway during the project allowing me to implement React towards the end of the first week. Whilst working at my previous job I was able to pick up the methodology to dispense a tailor made lens, in a day, enabling me to be the only person in the store that was capabale of dispensing this unique lens aside from the optometrist.
 
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+<kbd>**Great Communicator**</kbd>
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+During the past decade I have been teaching in one way or another be it in a classroom or onsite training. My ability to break down complex concepts into digestible chunks and taking a step by step approach to problem solving allows me to explain techniques and their practical application. During the stand-ups/meetings where I had learnt and used React I was able to demonstrate how a React hook is used and applied to the project allowing my team to gain that skill and apply it themselves.
 
 ## Education
 
