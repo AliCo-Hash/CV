@@ -1,8 +1,6 @@
 ## Ali Cocelli
 
-I am a junior full stack developer and a recent graduate from Makers Academy. Since undertaking the X module during my mathematics degree at university, I have developed a keen interest in X. +how you developed this interest and built on it.
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a junior full stack developer and a recent graduate from Makers Academy. I've always had an interest in tech from building my first pc to building my first keyboard. My interest in tech grew further when I undertook a public key cryptography project and doing a module in computational mathematics.
 
 ## Projects
 
@@ -11,18 +9,6 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **[Get Me Out of Here!](https://github.com/AliCo-Hash/escape-room)** | We designed a react based website which involved a lot of interactive components to make a escape room game. | JavaScript, NodeJS, ReactJS, HTML, CSS, Heroku              |
 | **[Maker-Mate](https://github.com/AliCo-Hash/maker-mate)**           | Building a clone of facebook.                                                                                | Node.js, MongoDB, Express, Handlebars, Jest, Cypress, React |
 | **[MakersBnB](https://github.com/AliCo-Hash/makersbnb)**             | First group project where the focus was building a MVP of AirBnB using the MVC framework                     | Ruby, Sinatra, PostgreSQL, Bulma, RSpec, Capybara           |
-
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
@@ -37,6 +23,18 @@ During the past decade I have been teaching in one way or another be it in a cla
 <kbd>**Analytical thinking**</kbd>
 
 The escape room project required creative solutions to implement the different elements of the game. By considering the multi-functional aspects of each element and breaking these down to different steps I was able to create an interactive item that incorporated hooks, promises, conditionals.
+
+## Work Experience
+
+#### **Vision Express(Tesco Opticians)** (September 2017 to September 2021)  
+Optical Assistant
+
+- Any experience, including roles and responsibilities and results achived in bullet point format.
+
+#### **Haringey Sixth Form College** (September 2011 to July 2012)  
+Volunteer Assistant Teacher
+
+- Any experience relevent to software development
 
 ## Education
 
@@ -60,4 +58,6 @@ AS levels: Further Mathematics(B)
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Building and tinkering with custom keyboards
+- Playing Videogames from RPGs to FPS
+- Interest in Audio tech
