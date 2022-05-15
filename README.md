@@ -63,8 +63,9 @@ Volunteer Assistant Teacher
 A levels: Mathematics(A), Accounting(B), Business (C)
 AS levels: Further Mathematics(B)
 
-## Hobbies
+## Hobbies/Interests
 
 - Building and tinkering with custom keyboards
 - Playing Videogames from RPGs to FPS
 - Interest in Audio tech
+- Bouldering
