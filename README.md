@@ -14,7 +14,7 @@ I am a junior full stack developer and a recent graduate from Makers Academy. I'
 
 <kbd>**Fast Learner**</kbd>
 
-In the course of the Maker-Mate project, I was able to wrap my head around MongoDB and Express within the first week without it being taught during the course. This meant that I was able to make good headway during the project allowing me to implement React towards the end of the first week. Whilst working at my previous job I was able to pick up the methodology to dispense a tailor made lens, in a day, enabling me to be the only person in the store that was capabale of dispensing this unique lens aside from the optometrist.
+In the course of the Maker-Mate project, I was able to wrap my head around MongoDB and Express within the first week without it being taught during the course. This meant that I was able to make good headway during the project allowing me to implement React towards the end of the first week. Whilst working at my previous job I was able to pick up the methodology to dispense a tailor made lens, in a day, enabling me to be the only person in the store that was capable of dispensing this unique lens aside from the optometrist.
 
 <kbd>**Great Communicator**</kbd>
 
@@ -26,15 +26,22 @@ The escape room project required creative solutions to implement the different e
 
 ## Work Experience
 
-#### **Vision Express(Tesco Opticians)** (September 2017 to September 2021)  
+#### **Vision Express(Tesco Opticians)** (September 2017 to September 2021)
+
 Optical Assistant
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Responsible for dispensing special lenses
+- Staying up to date with lens technologies including contact lenses
+- Communicating will multiple departments and external companies to bring solutions to the customers
 
-#### **Haringey Sixth Form College** (September 2011 to July 2012)  
+#### **Haringey Sixth Form College** (September 2011 to July 2012)
+
 Volunteer Assistant Teacher
 
-- Any experience relevent to software development
+- Taught advanced methods in Mathematics to higher ability A2 class
+- Assisted and encouraged struggling students by using my creativity to highlight key points and simplify methods
+- Used my initiative to establish hour-long weekly workshops
+- Gave daily tuition for students who needed assistance with homework and past-exam papers
 
 ## Education
 
