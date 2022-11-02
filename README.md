@@ -1,20 +1,20 @@
 ## Ali Cocelli
 
-I am a junior full stack developer and a recent graduate from Makers Academy. I've always had an interest in tech from building my first pc to building my first keyboard. My interest in tech grew further when I undertook a public key cryptography project and doing a module in computational mathematics.
+I am an enthusiastic software developer and a recent graduate from Makers Academy. Working on time-sensitive projects has helped me to adapt to changes quickly and work well under pressure with a high-level of focus and energy. I am able to communicate well in a team as well as use my own initiative to advance tasks.
 
 ## Projects
 
-| Name                                                                 | Description                                                                                                  | Tech/tools                                                  |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| **[Get Me Out of Here!](https://github.com/AliCo-Hash/escape-room)** | We designed a react based website which involved a lot of interactive components to make a escape room game. | JavaScript, NodeJS, ReactJS, HTML, CSS, Heroku              |
-| **[Maker-Mate](https://github.com/AliCo-Hash/maker-mate)**           | Building a clone of facebook.                                                                                | Node.js, MongoDB, Express, Handlebars, Jest, Cypress, React |
-| **[MakersBnB](https://github.com/AliCo-Hash/makersbnb)**             | First group project where the focus was building a MVP of AirBnB using the MVC framework                     | Ruby, Sinatra, PostgreSQL, Bulma, RSpec, Capybara           |
+| Name                                                                 | Description                                                                                                  | Tech/tools                                                     |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| **[Get Me Out of Here!](https://github.com/AliCo-Hash/escape-room)** | We designed a react based website which involved a lot of interactive components to make a escape room game. | JavaScript, Node.js, React.js, HTML, CSS, Heroku               |
+| **[Maker-Mate](https://github.com/AliCo-Hash/maker-mate)**           | Building a clone of facebook.                                                                                | Node.js, MongoDB, Express, Handlebars, Jest, Cypress, React.js |
+| **[MakersBnB](https://github.com/AliCo-Hash/makersbnb)**             | First group project where the focus was building a MVP of AirBnB using the MVC framework                     | Ruby, Sinatra, PostgreSQL, Bulma, RSpec, Capybara              |
 
 ## Skills
 
 <kbd>**Fast Learner**</kbd>
 
-In the course of the Maker-Mate project, I was able to wrap my head around MongoDB and Express within the first week without it being taught during the course. This meant that I was able to make good headway during the project allowing me to implement React towards the end of the first week. Whilst working at my previous job I was able to pick up the methodology to dispense a tailor made lens, in a day, enabling me to be the only person in the store that was capable of dispensing this unique lens aside from the optometrist.
+In the course of the Maker-Mate project, I was able to wrap my head around MongoDB and Express within the first week without it being taught during the course. This meant that I was able to make good headway during the project allowing me to implement React towards the end of the first week. While working at my previous job, I was able to pick up the methodology to dispense a tailor made lens, in a day, enabling me to be the only person in the store that was capable of dispensing this unique lens aside from the optometrist this enabled me to improve the customer experience by giving them a wider selection of lenses.
 
 <kbd>**Great Communicator**</kbd>
 
