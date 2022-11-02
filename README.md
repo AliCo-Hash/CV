@@ -30,28 +30,26 @@ The escape room project required creative solutions to implement the different e
 
 Optical Assistant
 
-- Responsible for dispensing special lenses
-- Staying up to date with lens technologies including contact lenses
-- Communicating will multiple departments and external companies to bring solutions to the customers
+- Worked as part of a team with optometrists, dispensing opticians and optical assistants in providing care and assistance to patients and customers which involved good communication skills and being able to recall the needs and requests of multiple individuals at any given time.
+- Stayed up to date with lens technologies, including contact lenses, which enabled me to provide appropriate evidenced-basis advice and problem solving for patients and customers.
+- Took sole responsibility for opening and closing the store (including setting up the tills and end of day cashing and reporting), which involved time management and attention to detail.
 
 #### **Haringey Sixth Form College** (September 2011 to July 2012)
 
 Volunteer Assistant Teacher
 
-- Taught advanced methods in Mathematics to higher ability A2 class
-- Assisted and encouraged struggling students by using my creativity to highlight key points and simplify methods
-- Used my initiative to establish hour-long weekly workshops
-- Gave daily tuition for students who needed assistance with homework and past-exam papers
+- Taught advanced methods in Mathematics to a higher ability A2 class, allowing me to adapt to their needs and create an optimal learning environment.
+- Assisted and encouraged struggling students by using my creativity to highlight key points and proceed to simplify methods.
+- Used my initiative to establish hour-long weekly workshops and offer daily tuition, which helped in achieving on average higher grades.
 
 ## Education
 
 #### Makers Academy (December 2021 to April 2022)
 
-- 16 week highly intensive development bootcamp
-- Test Driven and Object Orientated Development
-- Agile methodologies combined with daily pair-programming
-- Multiple technologies learn including Rspec, Jest, and MERN stack
-- Independent study and research skills
+- Utilising pair-programming with my communication skills on a frequent basis with various different cohort members in order to positively promote good workflow.
+- Rapid learning of multiple technologies during the final project to meet the demand of changing scenarios, and adapt to the needs of the project.
+- Carrying-out weekend challenges using what was learned throughout the week in order to further test and progress of my knowledge.
+- Completing group projects by working effectively as a team to find innovative solutions to enable each team member to successfully complete their individual tasks.
 
 #### University of Kent September 2012 - June 2016
 
@@ -66,6 +64,6 @@ AS levels: Further Mathematics(B)
 ## Hobbies/Interests
 
 - Building and tinkering with custom keyboards
-- Playing Videogames from RPGs to FPS
 - Interest in Audio tech
 - Bouldering
+  - Having the flexibility to make constant adjustment to make progress in difficult projects
