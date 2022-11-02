@@ -18,11 +18,11 @@ In the course of the Maker-Mate project, I was able to wrap my head around Mongo
 
 <kbd>**Great Communicator**</kbd>
 
-During the past decade I have been teaching in one way or another be it in a classroom or onsite training. My ability to break down complex concepts into digestible chunks and taking a step by step approach to problem solving allows me to explain techniques and their practical application. During the stand-ups/meetings where I had learnt and used React I was able to demonstrate how a React hook is used and applied to the project allowing my team to gain that skill and apply it themselves.
+During the past decade I have been teaching in one way or another, be it in a classroom or onsite training. My ability to break down complex concepts into digestible chunks and taking a step-by step approach to problem solving allows me to explain techniques and their practical application. During the stand-ups/meetings where I had learned and used React.js, I was able to demonstrate how a React hook is used and applied to the project allowing my team to gain that skill and apply it themselves.
 
 <kbd>**Analytical thinking**</kbd>
 
-The escape room project required creative solutions to implement the different elements of the game. By considering the multi-functional aspects of each element and breaking these down to different steps I was able to create an interactive item that incorporated hooks, promises, conditionals.
+The escape room project required creative solutions to implement the different elements of the game. By considering the multi-functional aspects of each element and breaking these down into different steps, I was able to create an interactive item that incorporated hooks, promises, and conditionals.
 
 ## Work Experience
 
